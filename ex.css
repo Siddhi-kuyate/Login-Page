@@ -1,0 +1,52 @@
+.abc{
+        background-image:url(log1.webp);
+        height: 100vh;
+        width: 100vw;
+        align-items: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+       display: flex;
+       justify-content: center;
+}
+
+.form{
+        color: rgb(0, 0, 0);
+        text-align: center;
+        height: 450px;
+        width: 350px;
+        background-color: black;   
+        
+
+}
+
+img{
+       
+        border-radius: 50%;
+        padding: 30px;
+}
+
+input{
+        width: 250px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        margin: 10px;
+        color: white;
+    
+}
+
+a{
+    margin-top: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+button{
+         background-color: rgba(0, 145, 255, 0.356);
+         color: white;
+        
+        
+         width: 60%;
+         height: 30px;
+         
+}
