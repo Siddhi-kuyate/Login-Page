@@ -1,0 +1,70 @@
+.login{
+        background-image: url(../img/blue.jpg);
+         height: 700px;
+         width: 100%; 
+          background-size: cover;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+     }
+
+.login1{
+
+          height:550px;
+          width: 350px;
+          background-color: white;
+          color: black;
+          text-align: center;
+          padding: 30px;
+          text-transform: capitalize;
+           border-radius: 10px;
+           margin-bottom: 40px;
+}
+
+input{ 
+
+     border:none;
+    border-bottom: 2px solid rgb(216, 206, 206);
+    width: 300px;
+    margin-bottom: 0.5px;
+       
+}
+
+P{
+       text-align: left;
+       margin-bottom: 0.50px;
+      
+}
+
+.for{
+      
+      text-align: right;
+   
+}
+ 
+a{
+    color: black;
+    text-decoration: none;
+    text-transform: lowercase;
+
+}
+
+button{
+        background-image: url(../img/blue.jpg);
+        background-size: cover;
+        width: 300px;
+        height: 30px;
+        border-radius: 30px;
+        color: white;
+        border: none;
+        margin-bottom: 5px;
+}
+
+h6{
+
+}
+
+.abc{
+    margin-bottom: 5px;
+    
+}
